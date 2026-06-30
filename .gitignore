@@ -1,0 +1,19 @@
+# Environments
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python virtual environment
+backend/venv/
+backend/.env
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env
+frontend/.env.local
